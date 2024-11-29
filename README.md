@@ -1,3 +1,2 @@
-# circles_functions
-This Project serves to collect functions regarding calculations around circles.
-The currently implemented features can calculate the circumference and area of a circle with a custom radius.
+### coding journey
+This repository is a compilation of interesting and useful snippets I wrote during my journey of learning to code. It's my digital notebook for ideas, experiments, and tiny projects that I've worked on along the way.
